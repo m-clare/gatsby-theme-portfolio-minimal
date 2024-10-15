@@ -27,7 +27,7 @@ export function Header(): React.ReactElement {
                     </Link>
                 );
             })}
-            {siteConfiguration.navigation.ctaButton?.url && siteConfiguration.navigation.ctaButton?.label ? (
+            {siteConfiguration.navigation.ctaButton?.url && false && siteConfiguration.navigation.ctaButton?.label ? (
                 <Link
                     to={siteConfiguration.navigation.ctaButton.url}
                     target={siteConfiguration.navigation.ctaButton.openNewTab ? '_blank' : undefined}

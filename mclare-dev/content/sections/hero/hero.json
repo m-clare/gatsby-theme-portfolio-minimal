@@ -1,0 +1,22 @@
+{
+    "intro": "",
+    "heroPhoto": {
+        "src": "../../images/avatar.jpg",
+        "alt": "UTSV Logo"
+    },
+    "image": {
+        "src": "",
+        "alt": ""
+    },
+  "title": "",
+    "subtitle": {
+        "prefix": "Software | Structural ",
+        "highlight": "Engineer",
+        "suffix": ""
+    },
+  "description": "Full-stack web applications, data visualization, and miscellany",
+    "socialProfiles": {
+      "from": ["LinkedIn", "Github", "Mail"],
+        "showIcons": false
+    }
+}

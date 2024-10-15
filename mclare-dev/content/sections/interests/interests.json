@@ -1,0 +1,45 @@
+{
+    "interests": [
+        {
+            "label": "Data Visualization",
+            "image": {}
+        },
+        {
+            "label": "Database Design",
+            "image": {}
+        },
+        {
+            "label": "Full-stack Web Applications",
+            "image": {}
+        },
+        {
+            "label": "Python Optimization",
+            "image": {}
+        },
+        {
+            "label": "Blender Plugin Development",
+            "image": {}
+        },
+        {
+            "label": "Data Dashboards",
+            "image": {}
+        },
+        {
+            "label": "Data Analysis",
+            "image": {}
+        },
+        {
+            "label": "Structural Optimization",
+            "image": {}
+        },
+        {
+            "label": "Research",
+            "image": {}
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "+ Load More",
+        "initiallyShownInterests": 5
+    }
+}

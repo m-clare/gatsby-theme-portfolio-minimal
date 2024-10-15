@@ -18,7 +18,7 @@
 .Contact .Profile .Avatar {
     width: 100%;
     max-width: 8.75rem;
-    border-radius: 50%;
+    border-radius: 0%;
     margin-right: 4rem;
     margin-bottom: 2rem;
 }

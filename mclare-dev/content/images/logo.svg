@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Logo_01:_600_x_600_px" data-name="Logo 01: 600 x 600 px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #046865;
+      }
+
+      .cls-2 {
+        fill: #21a0a0;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #cfcfcf;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="Text-6" data-name="Text">
+    <rect class="cls-3" x="50" y="50" width="500" height="500"/>
+    <line class="cls-3" x1="50" y1="300" x2="550" y2="300"/>
+    <line class="cls-3" x1="50" y1="175" x2="550" y2="175"/>
+    <line class="cls-3" x1="50" y1="425" x2="550" y2="425"/>
+    <line class="cls-3" x1="49.56" y1="549.56" x2="424.56" y2="174.56"/>
+    <line class="cls-3" x1="300" y1="297.74" x2="300" y2="552.26"/>
+    <line class="cls-3" x1="175" y1="422.74" x2="175" y2="550"/>
+    <line class="cls-3" x1="425" y1="175" x2="425" y2="550"/>
+    <rect class="cls-1" x="430.92" y="181.07" width="112.88" height="112.88"/>
+    <polygon class="cls-2" points="419.18 293.95 313.11 293.95 419.18 187.89 419.18 293.95"/>
+    <rect class="cls-1" x="430.92" y="306.06" width="112.88" height="112.88"/>
+    <rect class="cls-1" x="430.92" y="431.06" width="112.88" height="112.88"/>
+    <rect class="cls-2" x="306.06" y="431.06" width="112.88" height="112.88"/>
+    <rect class="cls-2" x="306.06" y="306.06" width="112.88" height="112.88"/>
+    <rect class="cls-2" x="181.06" y="431.06" width="112.88" height="112.88"/>
+    <polygon class="cls-2" points="293.94 418.94 187.88 418.94 293.94 312.88 293.94 418.94"/>
+    <polygon class="cls-2" points="169.33 543.94 63.27 543.94 169.33 437.88 169.33 543.94"/>
+  </g>
+</svg>

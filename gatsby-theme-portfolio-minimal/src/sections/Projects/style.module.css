@@ -9,12 +9,29 @@
     text-align: center;
 }
 
+.Indicators {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Indicators > div {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
 @media (min-width: 992px) {
     .Projects {
         flex-direction: column;
         margin-top: 0;
     }
+
     .MoreProjects {
         margin-top: 0;
+    }
+
+    .Indicators {
+        visibility: hidden;
     }
 }

@@ -1,0 +1,238 @@
+{
+    "projects": [
+        {
+            "visible": true,
+            "category": "PYTHON OPTIMIZATION",
+            "title": "CyTriangle",
+            "description": "Object-oriented open source Cython wrapper of Shewchuk's C Triangle library",
+            "tags": ["Cython", "Python Optimization", "PyPI", "Open Source Software"],
+            "image": {
+                "src": "../../images/cytriangle.png",
+                "alt": "CyTriangle on PyPI",
+                "linkTo": "https://pypi.org/project/cytriangle/"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/m-clare/cytriangle"
+                },
+                {
+                    "type": "external",
+                    "url": "https://pypi.org/project/cytriangle/"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "FULL-STACK WEB DEVELOPMENT",
+            "title": "Bridge.watch",
+            "description": "Full-stack web application analyzing and presenting aggregate condition data for bridges within the U.S. based on the 2021 National Bridge Inventory.",
+            "tags": ["Full-stack Web Application", "Data Analysis", "Data Visualization", "Database Design"],
+            "image": {
+                "src": "../../images/bridge_watch.png",
+                "alt": "Bridge Watch National Map",
+                "linkTo": "https://bridge.watch"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/m-clare/Bridge.watch"
+                },
+                {
+                    "type": "external",
+                    "url": "https://bridge.watch"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "PYTHON OPTIMIZATION",
+            "title": "Pymaxion",
+            "description": "Extensible geometric constraint solver written as a Cython library and integrated into Blender.",
+            "tags": ["Python Optimization", "Cython", "Blender"],
+            "image": {
+                "src": "../../images/pymaxion.png",
+                "alt": "Blender Pymaxion Add On",
+                "linkTo": "https://github.com/m-clare/pymaxion"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/m-clare/pymaxion"
+                },
+                {
+                    "type": "external",
+                    "url": "https://www.youtube.com/watch?v=TE3M3XfwSN4"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "DATA VISUALIZATION",
+            "title": "Soft Story Retrofits in Los Angeles",
+            "description": "Interactive data visualization and map of the soft story retrofits missing/completed/verified in Los Angeles. Utilizes Maplibre and PostGIS to determine buildings still in need of retrofitting. ",
+            "tags": ["Data Visualization", "React", "PostGIS", "Postgres", "Maplibre"],
+            "image": {
+                "src": "../../images/soft_story_map.png",
+                "alt": "Map of Soft Story Retrofits in Los Angeles",
+                "linkTo": "https://mclare.dev/soft-stories"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://mclare.dev/soft-stories"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "DATA VISUALIZATION",
+            "title": "EC3 Environmental Product Declarations",
+            "description": "Interactive data visualization of all the environmental product declarations in the EC3 database. Allows for comparison of aggregate EPDs by plant, company, and category with additional geographic (US) filtering by plant",
+            "tags": ["Data Visualization", "Sustainability", "Embodied Carbon", "D3", "React"],
+            "image": {
+                "src": "../../images/ec3epds.png",
+                "alt": "Bubble Data Visualization of EC3 Categories",
+                "linkTo": "https://mclare.blog/visuals/ec3epds"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://mclare.blog/visuals/ec3epds"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "SOFTWARE DEVELOPMENT",
+            "title": "Circular Algorithms (with Summum Engineering)",
+            "description": "Investigation of databases of reclaimed materials within the Netherlands, including API probing and mapping. Project shown: De Warren by Natrufied Architecture (Photo courtesy Summum Engineering)",
+            "tags": [
+                "API Development",
+                "Structural Engineering",
+                "Circular Economy",
+                "Sustainability",
+                "Research",
+                "Python"
+            ],
+            "image": {
+                "src": "../../images/circularAlgorithms.png",
+                "alt": "Circular Algorithms"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://www.summum.engineering/portfolio/circular-algorithms/"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "FULL-STACK WEB DEVELOPMENT",
+            "title": "React-EC3-Speckle Embodied Carbon Starter App",
+            "description": "Starter application and proof of concept for using Speckle to easily attach material information to IFC files and use the EC3 API for a rough embodied carbon estimate based on local material sourcing.",
+            "tags": [
+                "Full Stack Web Application",
+                "Data Visualization",
+                "Embodied Carbon",
+                "Sustainability",
+                "IFC",
+                "React",
+                "D3",
+                "Nodejs"
+            ],
+            "image": {
+                "src": "../../images/speckle_ec3.png",
+                "alt": "Speckle EC3 Web Application",
+                "linkTo": "https://github.com/m-clare/react-ec3-speckle"
+            },
+            "links": [
+                {
+                    "type": "github",
+                    "url": "https://github.com/m-clare/react-ec3-speckle"
+                },
+                {
+                    "type": "external",
+                    "url": "https://mclare.blog/posts/prototyping-web-applications-with-speckle"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "DATA VISUALIZATION",
+            "title": "Sustainable Design in U.S. Communities",
+            "description": "Data exploration and visualization of LEED (green building) rated projects in the U.S. since the formation of the U.S. Green Building Council. Projects are cross referenced against the U.S. Census Bureau's Disadvantaged Census Tract Data to explore the prevalence of sustainable design in disadvantaged communities (Staff pick from Observable team)",
+            "tags": ["Data Visualization", "Sustainability", "Data Analysis", "D3", "Visidata"],
+            "image": {
+                "src": "../../images/leed_census.png",
+                "alt": "LEED Buildings Census Data",
+                "linkTo": "https://observablehq.com/@m-clare/sustainable-design-in-communities"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://observablehq.com/@m-clare/sustainable-design-in-communities"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "DATA VISUALIZATION AND MAPPING",
+            "title": "Los Angeles Demolition Permit Information",
+            "description": "Using LA City Data to investigate the prevalence of building demolitions within the city over the past ten years. Done in collaboration with the Carbon Leadership Forum - Los Angeles Chapter.",
+            "tags": ["Data Visualization", "Data Mapping", "Sustainability", "Research", "D3", "LeafletJS"],
+            "image": {
+                "src": "../../images/clf_la_demo.png",
+                "alt": "Los Angeles Building Demolition Permits",
+                "linkTo": "https://observablehq.com/@m-clare/city-of-los-angeles-building-and-safety-permit-information"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://observablehq.com/@m-clare/city-of-los-angeles-building-and-safety-permit-information"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "DATA VISUALIZATION",
+            "title": "Is the Structural Engineering Profession Growing?",
+            "description": "Data collection and analysis of the rate of professional (structural) engineering licensure in the U.S.",
+            "tags": ["Data Analysis", "Data Visualization", "Research", "D3"],
+            "image": {
+                "src": "../../images/se3_licensure.png",
+                "alt": "SE3 Licensure Plots",
+                "linkTo": "https://mclare.blog/posts/is-the-structural-engineering-profession-growing"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://mclare.blog/posts/is-the-structural-engineering-profession-growing"
+                }
+            ]
+        },
+        {
+            "visible": true,
+            "category": "DATA ANALYSIS AND VISUALIZATION",
+            "title": "SE3 2020 Survey",
+            "description": "Survey and analysis co-lead for 2020 Structural Engineering. Responsibilities included survey design and data analysis for topic briefs.",
+            "tags": ["Data Analysis", "Python", "Pandas", "Research"],
+            "image": {
+                "src": "../../images/se3_survey.png",
+                "alt": "SE3 Response Map",
+                "linkTo": "https://se3committee.com"
+            },
+            "links": [
+                {
+                    "type": "external",
+                    "url": "https://www.se3committee.com/publications"
+                }
+            ]
+        }
+    ],
+    "button": {
+        "visible": true,
+        "label": "Visit on Github",
+        "url": "https://github.com/m-clare"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "siteMetadata": {
+        "language": "en",
+      "siteUrl": "https://mclare.dev",
+        "thumbnail": "../content/images/avatar.jpg",
+        "title": "Maryanne Wachter",
+        "titleTemplate": "%s · Porfolio",
+        "description": "Porfolio and services site for Maryanne Clare Wachter",
+        "author": "Maryanne Wachter",
+        "avatar": "../content/images/avatar.png",
+        "bio": "",
+        "social": {
+            "github": "https://github.com/m-clare",
+            "linkedin": "https://www.linkedin.com/in/m-wachter/",
+            "twitter": "https://twitter.com/eng_mclare",
+            "mastodon": "https://recurse.social/@mclare",
+            "mail": "mailto:mwachter@utsv.net"
+        }
+    },
+    "siteConfiguration": {
+        "logo": { "text": "Maryanne Wachter" },
+        "navigation": {
+            "header": [
+                { "label": "About", "url": "/#about" },
+              { "label": "Blog", "url": "https://mclare.blog" },
+                { "label": "Portfolio", "url": "/#portfolio" },
+              { "label": "Github", "url": "https://github.com/m-clare" }
+            ],
+          "ctaButton": {},
+            "footer": [
+                { "label": "Privacy", "url": "/privacy" },
+                { "label": "Imprint", "url": "/imprint" }
+            ]
+        },
+        "featureToggles": {
+            "useDarkModeAsDefault": false,
+            "useDarkModeBasedOnUsersPreference": false,
+            "useCookieBar": false
+        }
+    }
+}

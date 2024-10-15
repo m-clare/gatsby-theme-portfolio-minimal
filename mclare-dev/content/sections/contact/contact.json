@@ -1,0 +1,12 @@
+{
+    "name": "Maryanne Wachter",
+    "email": "mwachter@utsv.net",
+    "image": {
+        "src": "../../images/Logo.png",
+        "alt": "UTSV Logo"
+    },
+    "socialProfiles": {
+      "from": ["LinkedIn", "Github", "Twitter", "Mastodon"],
+        "showIcons": false
+    }
+}

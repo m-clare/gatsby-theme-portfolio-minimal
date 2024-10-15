@@ -57,7 +57,19 @@ export function SocialProfiles(props: SocialProfilesProps): React.ReactElement {
         <Slider>
             {shownProfiles.map((profile, key) => {
                 const completeProfileData = profile.label && profile.url;
-                return !completeProfileData ? null : (
+                return !completeProfileData ? null : profile.label === 'Mastodon' ? (
+                    <a
+                        key={key}
+                        className={classes.Profile}
+                        href={profile.url}
+                        target="_blank"
+                        rel="me nofollow noopener noreferrer"
+                        aria-label={profile.label}
+                        style={props.showIcon ? { padding: '0.5rem 1.25rem' } : undefined}
+                    >
+                        {props.showIcon ? <Icon name={profile.id} /> : undefined} {profile.label}
+                    </a>
+                ) : (
                     <a
                         key={key}
                         className={classes.Profile}
